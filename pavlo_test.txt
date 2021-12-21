@@ -4,10 +4,7 @@ third line
 fourth line
 fifth line
 sixth line
-seventh line
-eighth line
-nineth line
-tenth line
+
 
 new line for second commit
 
