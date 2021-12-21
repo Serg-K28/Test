@@ -12,3 +12,6 @@ tenth line
 new line for second commit
 
 new commit
+
+update 1
+update 2
